@@ -1,4 +1,4 @@
-# FirstProjectWhileTrue
+# Pokedex Build
 #https://pedrin272-pokedex-demo.web.app/
 ###v1.0
 #####(still want to add new functionalities)
