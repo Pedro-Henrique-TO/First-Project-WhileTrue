@@ -1,0 +1,10 @@
+<div class="poke-grid">
+    <div class="box" *ngFor="let pokes of pokemons; index as i;">
+        <img [src]="pokes.sprites.front_default" alt="">
+        <h2>{{pokes.name}}</h2>
+        <h2>#{{pokes.id}}</h2>
+        <h2>Type:{{pokes.types[0].type.name}} </h2>
+        
+        
+    </div>
+</div>
