@@ -1,7 +1,7 @@
 # Pokedex Build
-#https://pedrin272-pokedex-demo.web.app/
-###v1.0
-#####(still want to add new functionalities)
+# https://pedrin272-pokedex-demo.web.app/
+### v1.0
+##### (still want to add new functionalities)
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.1.0.
 
 ## Development server
